@@ -27,11 +27,11 @@ Tener instalado:
 
 ### Imagenes de muestra ⌨️
 
-_Explica que verifican estas pruebas y por qué_
+![2021-05-12_17-46](https://user-images.githubusercontent.com/32781289/118053711-a446fe80-b34a-11eb-955d-7f8712937567.png)
+![2021-05-12_17-47](https://user-images.githubusercontent.com/32781289/118053713-a4df9500-b34a-11eb-8b17-9f4d18a7201b.png)
+![2021-05-12_17-48](https://user-images.githubusercontent.com/32781289/118053719-a5782b80-b34a-11eb-90b9-ad6871ed2360.png)
+![2021-05-12_17-49](https://user-images.githubusercontent.com/32781289/118053720-a5782b80-b34a-11eb-96a0-be46a7782435.png)
 
-```
-Da un ejemplo
-```
 
 ## Construido con 🛠️
 
