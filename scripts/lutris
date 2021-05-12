@@ -1,0 +1,4 @@
+#!/bin/bash
+
+
+sudo sh -c 'sysctl -w abi.vsyscall32=0' && lutris
